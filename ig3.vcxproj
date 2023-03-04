@@ -141,9 +141,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ig3.cpp" />
+    <ClCompile Include="pipeline.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="math_3d.h" />
+    <ClInclude Include="pipeline.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
